@@ -465,6 +465,14 @@ About Chris C.
     font-size: 20px;
     font-weight: bold;
 }
+
+@media (max-width: 768px) {
+    .menu-back {
+        padding: 12px;
+        padding-top: 16px;
+    }
+}
+
 /* menu-toggle
 -------------------- */
 .menu-toggle {
