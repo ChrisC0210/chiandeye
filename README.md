@@ -1,6 +1,8 @@
-# Chris C. Portfolio
+# Chris C. ILLUSTRATION
 
-👶🏻 Priview>>> https://chrisc0210.github.io/ChrisPortfolio/.
+👶🏻 Priview>>> https://chrisc0210.github.io/chiandeye/
+
+👶🏻 Portfolio>>>https://chrisc0210.github.io/ChrisPortfolio/
 
 
 <a href="https://chrisc0210.github.io/ChrisPortfolio/">
